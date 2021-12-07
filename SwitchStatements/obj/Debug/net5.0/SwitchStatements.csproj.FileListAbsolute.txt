@@ -1,0 +1,16 @@
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.exe
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.deps.json
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.json
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.dev.json
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.dll
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\ref\SwitchStatements.dll
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.pdb
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfo.cs
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.dll
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\ref\SwitchStatements.dll
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.pdb
+C:\Users\timho\Documents\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.genruntimeconfig.cache
